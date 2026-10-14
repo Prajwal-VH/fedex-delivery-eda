@@ -38,7 +38,7 @@ The dataset contains 10,324 records and 33 columns related to medical-product su
 - Use shipment trends to support operational planning.
 
 ## Project Files
-- `FedEx_EDA.ipynb` — Data inspection, preprocessing, visualizations, insights, and recommendations.
+- `FedEx EDA notebook.ipynb` — Data inspection, preprocessing, visualizations, insights, and recommendations.
 
 ## Dataset Note
 The source file is named `SCMS_Delivery_History_Dataset.csv` and concerns medical-product supply chain operations. The project uses the assignment's FedEx logistics framing while analyzing the actual source data.
